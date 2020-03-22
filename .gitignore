@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/Dotnet.Linq/v16
+/src/Dotnet.Linq.Example/bin/Debug/netcoreapp3.1
+/src/Dotnet.Linq.Example/obj
